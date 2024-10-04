@@ -1,6 +1,14 @@
-### HI, I'm Balthazar 😁
+## Hi, I'm Balthazar 😁
+---
+### Curriculum
+*currently* 📖 learning web development✍️ 
+*previously* 🧑‍🎓 student in bioninformatics 💻
+---
+### skills
+- 🐍 python and a few libraries (🔢numpy, 🔬scipy, 🐼panda)
+- ®️ R
 
-I'm a bioinformaticien trying to better understand and specialize in pogramming
-Currently I know how to code in python and R and I'm learning HTML,CSS and JS
-
-I have done few projects but I'm hoping to do more these incoming years.
+### learning
+- 🌍HTML
+- 📄CSS
+- ✨JS
