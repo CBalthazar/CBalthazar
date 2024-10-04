@@ -1,9 +1,7 @@
 ## Hi, I'm Balthazar 😁
----
-### Curriculum
+### Curriculum :
 *currently* 📖 learning web development✍️ 
 *previously* 🧑‍🎓 student in bioninformatics 💻
----
 ### skills
 - 🐍 python and a few libraries (🔢numpy, 🔬scipy, 🐼panda)
 - ®️ R
